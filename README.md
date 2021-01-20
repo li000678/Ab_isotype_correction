@@ -19,4 +19,4 @@
 #### **Host** 
 > source of the antibody, use *'Mouse'* or *'Rabbit'* only
 #### **Ratio**
-> the mean value calculated from solution mode (all the antibodies are supposed to be of the same concentration, so that when doing the corrections, (readings from FCS)/(mean value) corresponds to the antibody number)
+> the mean value calculated from solution mode (all the antibodies are supposed to be of the same concentration, so that when doing the corrections, (reading from FCS)/(mean value) corresponds to the antibody number)
